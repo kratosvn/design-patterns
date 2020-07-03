@@ -1,0 +1,6 @@
+1. Adapter pattern là gì?
+- là 1 trong những pattern thuộc nhóm cấu trúc
+- cho phép 2 interface ko có thể làm việc với nhau, đối tượng kết nối interface gọi là adapter
+
+1. Khi nào chúng ta dùng adapter?
+- Khi muốn dùng 1 interface cũ nhưng interface ko fit nên cần adapter để chuyển đổi
